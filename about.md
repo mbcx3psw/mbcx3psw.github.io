@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+As far as my work history goes I've been involved in the delivery of enterprise software for over 20 years. In that time I've worked as a developer, analyst, project manager and product owner.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Outside of work I'm interested in open source software and family history amongst other things.

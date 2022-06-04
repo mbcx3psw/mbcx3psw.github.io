@@ -1,14 +1,20 @@
+---
+layout: page
+title: Problem Solving in an Enterprise Environment
+
+---
+
 Why am I writing this? I've been involved in implementing and supporting enterprise software for over 20 years. In recent years I've been a product owner and one of my key jobs has been to stop the scrum teams that I work with from being distracted from their scrum work. In trying to do this I've ended up triaging tickets that are passed to Development. Lots of the tickets that I look at I end up sending back because they're missing information or questions haven't been asked that would rule a cause in or out. It's made me realise that there are repeatable steps that you can take to solve enterprise software problems in large organisations. My definition of large organisation is one that has more than one department. This document is my understanding of those steps and how I go about trying to solve problems.
 
 Why should you bother reading this? If you're involved in implementing or supporting software in any capacity there should be something in here for you. You don't need to be a developer to understand what follows so if you're a support desk analyst, business analyst, consultant or product owner hopefully this will help you in the future. And if you are a developer maybe this will mean that next time you're presented with a problem your first instinct isn't to spend time checking out the code, running a build and trying to replicate the problem with next to no information.
 
 There are whole industries built around problem management which may or may not use different terms to mean the same thing. I don't know I'm not qualified in any of them. However, to keep terminalogy consistent in this document I've come up with the following definitions for terms that I use throughout.
 
-Problems are the result of causes.
-Solutions solve problems.
-Information is required to arrive at the solution to a problem. Information is used to arrive at a hypothesis.
-Hypothesis are thought experiments that allow you to arrive at a solution to a problem.
-Tickets are used to report problems. A ticket is closed when a problem is solved.
+* **Problems** are the result of a **cause** or **causes**.
+* **Solutions** solve **problems**.
+* Information is required to arrive at the **solution** to a **problem**. Information is used to arrive at a **hypothesis**.
+* **Hypothesis** are thought experiments that allow you to arrive at a **solution** to a **problem**.
+* **Tickets** are used to report **problems**. A **ticket** is closed when the **cause** has been identified and the **problem** is solved.
 
 When working with software sooner or later something is going to go wrong. Either the software isn't behaving as expected or it's just not working. For the business to continue working that problem is going to have to be investigated and solved. Problem solving is a skill which can be learnt. There are certain basic approaches that apply to all problems. Clearly having knowledge of the software or business area you're working in will make it more likely that you'll solve the problem quickly, but not having this knowledge isn't an excuse for not trying or passing the problem onto someone else.
 

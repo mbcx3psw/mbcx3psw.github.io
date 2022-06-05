@@ -1,9 +1,9 @@
 ---
-layout: page
-title: About
+layout: default
+Title: About
 permalink: /about/
 ---
 
-As far as my work history goes I've been involved in the delivery of enterprise software for over 20 years. In that time I've worked as a developer, analyst, project manager and product owner.
+I’ve been involved in the delivery of enterprise software for over 20 years. In that time I’ve worked as a developer, analyst, project manager and product owner. I've experienced different approaches and methodologies over the years as well as encountering lots of indviduals and their differing perspectives on how to work. 
 
-Outside of work I'm interested in open source software and family history amongst other things.
+These articles are my thoughts on how best to work in an enterprise software environment when you're responsible for delivery.

@@ -4,6 +4,13 @@ title: Henry James Humphrey Swendell. An Introduction.
 
 ---
 
+<p align="center">
+<img src="/images/ThomasAndMum.jpg" alt="Thomas Swendell, Henry's son and my mum.">
+</p>
+<p align="center">
+Thomas Swendell, Henry's son and my mum.
+</p>
+
 Henry James Humphrey Swendell (1830 - 1896) is my great, great grandfather and the person who most got me into genealogy. A lot of that is to do with him being a soldier which means there are lots of records to discover. There's also a lot of details that are tantalisingly out of reach such as how he met his wife, Ann Saxon, and who was she? Did he father illegitimate children in Canada? And I know he's in a group photo, but I don't know who he is.
 
 Henry became immediately interesting very early on in my journey into family history. Having very quickly put together my family tree I decided that I had probably made lots of mistakes. An obvious set soon jumped out at me as three of Henry's children were recorded as having been born in Canada. This was clearly wrong - working class people didn't go abroad for a bit and then return to the UK in the 19th century. After checking census records it became clear that this is exactly what Henry had done. Why had he gone and why had he come back? This lead me to the history of the Rifle Brigade written in the 1890s which describes some of Henry's time in Canada, local history societies in Canada and Henry's service record.

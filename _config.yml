@@ -90,3 +90,7 @@ collections:
  familyHistory:
   output: true 
 
+#feeds
+feed:
+  collections:
+    - familyHistory

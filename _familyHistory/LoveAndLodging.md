@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: Love and Lodging
-permalink: /swendell/Love-And-Lodging.
+title: Love and Lodging.
+permalink: /swendell/Love-And-Lodging
 
 ---
 

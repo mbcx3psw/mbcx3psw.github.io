@@ -3,6 +3,8 @@
 layout: page
 title: Henry James Humphrey Swendell and the Crimean War.
 permalink: /swendell/Henry-James-Humphrey-Swendell-and-the-Crimean-War
+doctype: history
+tag: HJHS
 ---
 
 Having found out that Henry had been a soldier the next thing to do was get hold of his service record. Luckily this proved to be very simple at <a href="fold3.com">fold3.com</a> and in next to no time I was looking at it. The first page of his service record lists his medals

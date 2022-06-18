@@ -2,6 +2,7 @@
 layout: page
 title: Family History
 permalink: /familyHistory/
+doctype: history
 
 ---
 During the lockdown I started to research my family tree. It's been a lot of fun and I've learnt a lot.

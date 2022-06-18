@@ -281,6 +281,25 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  font-size: 12px;
+}
+
+
+.columns {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 100%
+}
+
+.column {
+flex: 33.33%;
+text-align: left;
+}
+
+.column-social{
+flex: 33.33%;
+text-align: center;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

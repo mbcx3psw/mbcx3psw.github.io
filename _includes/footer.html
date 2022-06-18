@@ -1,0 +1,31 @@
+<!-- Footer -->
+<footer> 
+  <div class="container">
+    <div class="columns">
+		<div class="column">
+		  <p> Powered by <a href="https://jekyllrb.com/">Jekyll</a></p>
+		  <p> Hosted by <a href="https://github.com/">GitHub</a></p>
+		</div>
+		<div class="column">
+			{% if page.doctype == "history" %}
+			<p><a href="{{ site.baseurl }}/familyHistory">Family History</a></p>
+			<p></p><a href="https://www.ancestry.co.uk/family-tree/tree/168885868/family?cfpid=242186374595"> Ancestry Family Tree</a></p>
+			{% else %}
+			<p></p><a href="{{ site.baseurl }}/about">About</a></p>
+			<p></p><a href="{{ site.baseurl }}/blog">Blog</a></p>
+            {% endif %}
+		</div>
+		<div class="column-social">
+		 {% if page.doctype == "history" %}
+		 {% if site.footer-links.rss %}<a href="{{ site.baseurl }}/feed/familyHistory.xml"><i class="svg-icon rss"></i></a>{% endif %}
+		 {% else %}
+		 {% if site.footer-links.rss %}<a href="{{ site.baseurl }}/feed.xml"><i class="svg-icon rss"></i></a>{% endif %}
+		 {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}"><i class="svg-icon linkedin"></i></a>{% endif %}
+		 {% endif %}
+		</div>
+  </div>
+
+  <div class="copyright text center">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+  </div>
+</footer>

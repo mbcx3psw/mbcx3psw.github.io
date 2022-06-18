@@ -2,6 +2,8 @@
 layout: page
 title: Henry James Humphrey Swendell. An Introduction.
 permalink: /swendell/Henry-James-Humphrey-Swendell-An-Introduction
+doctype: history
+tag: HJHS
 ---
 
 <p align="center">

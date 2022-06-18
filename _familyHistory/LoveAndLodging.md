@@ -3,6 +3,8 @@
 layout: page
 title: Love and Lodging.
 permalink: /swendell/Love-And-Lodging
+doctype: history
+tag: TS SH HS CS
 
 ---
 

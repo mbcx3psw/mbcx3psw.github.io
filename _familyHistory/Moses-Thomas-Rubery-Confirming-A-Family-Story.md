@@ -34,4 +34,4 @@ Talking about family history encouraged my dad to contact one of his cousins who
 The Rubery's Shop c.1879.
 </p>
 
-I don't think there's any doubt whose shop they're outside! On the balance of probability the family group to the right of centre is the Ruberys with Moses on the left next to his eldest daughter Florence. The smaller girl is Moses' other daughter Beatrice. Moses' wife Maria holds their youngest child Ernest, my great great granddad. Ernest was born in September 1878 and Moses was killed a year later. Given Ernest's apparent age in the photo it was probably taken just a few weeks before Moses' death.
+I don't think there's any doubt whose shop they're outside! On the balance of probability the family group to the right of centre is the Ruberys with Moses on the left next to his eldest daughter Florence. The smaller girl is Moses' other daughter Beatrice. Moses' wife Maria holds their youngest child Ernest, my great granddad. Ernest was born in September 1878 and Moses was killed a year later. Given Ernest's apparent age in the photo it was probably taken just a few weeks before Moses' death.

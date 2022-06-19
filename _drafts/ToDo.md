@@ -11,9 +11,5 @@
 * Thomas, glasses and the army
 * Migration to Bradford
 * Joseph Stewart not married for a second time
-* Moses Rubery's death
 * Adventures in DNA
 * Frank Wootton. Builder and MBE
-
-* Footer
-* License

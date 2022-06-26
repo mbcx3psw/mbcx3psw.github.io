@@ -1,7 +1,6 @@
 * Solicitor's clerk, masons and convicts
 * Brothers in arms
 * Who is Henry Swendell?
-* Henry Swendell in Canada
 * Emmigration to America
 * 1910 mystery photo
 * The Saxons?

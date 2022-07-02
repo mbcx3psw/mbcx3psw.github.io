@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who's that grl - 1910 edition?
+title: Who's that girl - 1910 edition?
 permalink: /swendell/Who-is-that-girl-1910-edition
 doctype: history
 tag: TS

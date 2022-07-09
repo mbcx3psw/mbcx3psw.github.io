@@ -1,3 +1,4 @@
+# Family History
 * Solicitor's clerk, masons and convicts
 * Brothers in arms
 * Who is Henry Swendell?
@@ -12,3 +13,12 @@
 * Joseph Stewart not married for a second time
 * Adventures in DNA
 * Frank Wootton. Builder and MBE
+
+# Work
+* My new favourite thing
+* I hate scrum c.f. I hate Linux
+* Psycology of responsibility
+* Compromise when arriving at solutions
+* Nuance is important
+* Time reporting
+* I don't like working on projects that end up firefighting

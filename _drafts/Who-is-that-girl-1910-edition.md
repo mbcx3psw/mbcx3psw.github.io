@@ -29,5 +29,7 @@ I know that number 1 is my great granddad Thomas Swendell. Stood next to him at 
 
 To try and date the photo I asked at <a href="https://www.rootschat.com">rootschat.com</a> where the <a href="https://www.rootschat.com/forum/index.php?topic=832760.0">general consensus was that it was taken between 1908 and 1912</a>.
 
-This ruled out Rachel Horsfall, my great, great grandma, being the lady at number 4 as she died in 1906. This left me with no idea who numbers 4, 5, 6 and 8 are. I tried to tackle this by focussing on the girl. See looks to be about five in the photo and chances are her parents are in the photo with her. Caroline and Willie Hardwick had no children. The 1911 census confirms this. I started to trawl through my family tree looking for a girl born in about 1903. This was harder than I thought it was going to be.
+This ruled out Rachel Horsfall, my great, great grandma, being the lady at number 4 as she died in 1906. This left me with no idea who numbers 4, 5, 6 and 8 are.
+
+Having thought about it I decided that the key to this was the little girl, number 8. Assuming that she hadn't demanded to be in the picture then chances are at least one of her parents are in the picture. Plus assuming that the little girl was about five when the photo was taken I tried to tackle this by focussing on the girl. See looks to be about five in the photo and chances are her parents are in the photo with her. Caroline and Willie Hardwick had no children. The 1911 census confirms this. I started to trawl through my family tree looking for a girl born in about 1903. This was harder than I thought it was going to be.
 

@@ -22,3 +22,4 @@
 * Nuance is important
 * Time reporting
 * I don't like working on projects that end up firefighting
+* Do talk about the solution of it helps

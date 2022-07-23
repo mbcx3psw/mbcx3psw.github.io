@@ -9,7 +9,7 @@ During the lockdown I started to research my family tree. It's been a lot of fun
 
 I've found that reading about family history can be pretty dry no matter how thrilling the underlying story. For me the exciting part of family history is when I make a discovery or uncover something unexpected. While I want to use this website as an opportunity to document what I've found out about my family I also want to convey the process I went through and some of the excitement I felt when I found out something new.
 
-My family tree is online at <a href="https://www.ancestry.co.uk/family-tree/tree/168885868/family?cfpid=242186374595">Ancestry</a>.
+My family tree is online at <a href="https://www.ancestry.co.uk/family-tree/tree/168885868/family?cfpid=242186374595">Ancestry</a> and I can be contacted through <a href="mailto:{{ site.email | encode_email }}" title="email">email</a>.
 
 
 ## Articles

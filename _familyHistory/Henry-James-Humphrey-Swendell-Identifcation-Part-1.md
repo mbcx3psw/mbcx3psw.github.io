@@ -10,10 +10,10 @@ This is the first of, what I hope, will be at least two blog posts about trying 
 
 I don't know about other people, but for me finding a picture of an ancestor is one of the most exciting things about family history research. Having a photo of someone makes them that bit more real and relatable. Photography was invented in 1839. As the 19th century progressed photography became more widespread. For example, <a href="http://1815-1918.blogspot.com/2010/07/rifle-brigade-in-crimea.html">photographs were taken of Rifle Brigade soldiers in the Crimean War</a>. This got me thinking, was there a picture of Henry Swendell out there?
 
-The Rifle Brigade was amalgamated with other regiments to form the Green Jackets Brigade in 1958 and then the Royal Green Jackets Regiment in 1966. The <a href="https://rgjmuseum.co.uk/">Royal Green Jackets Regiment's museum is in Winchester</a> with the regiment's archives managed by <a href="https://www.hants.gov.uk/librariesandarchives/archives">Hampshire Archive</a>. Searching the Hampshire Archive's online index I came across <a href="https://calm.hants.gov.uk/Record.aspx?src=CalmView.Catalog&id=A12170%2f3%2f1%2f2%2f1%2f627&pos=274">a photo of the Rifle Brigade's 1st battalion serjeants mess taken in 1868<a/>. 
+The Rifle Brigade was amalgamated with other regiments to form the Green Jackets Brigade in 1958 and then the Royal Green Jackets Regiment in 1966. The <a href="https://rgjmuseum.co.uk/">Royal Green Jackets Regiment's museum is in Winchester</a> with the regiment's archives managed by <a href="https://www.hants.gov.uk/librariesandarchives/archives">Hampshire Archive</a>. Searching the Hampshire Archive's online index I came across <a href="https://calm.hants.gov.uk/Record.aspx?src=CalmView.Catalog&id=A12170%2f3%2f1%2f2%2f1%2f627&pos=274">a photo of the Rifle Brigade's 1st battalion serjeants' mess taken in 1868<a/>. 
 
 <p align="center">
-<img src="/images/170A12W_P_4636.jpg" alt="Faded image of 48 portraits arranged around the insigna of the Rifle Brigade">
+<img src="/images/170A12W_P_4636.jpg" alt="Faded image of 48 portraits arranged around the insigna of the Rifle Brigade" title="Hampshire Records Office: The Royal Green Jackets Regimental Archive: 170A12W/P/4636">
 </p>
 <p align="center">
 Portraits of the serjeants' mess of the Rifle Brigade 1st Battalion 1868. Hampshire Records Office: The Royal Green Jackets Regimental Archive: 170A12W/P/4636
@@ -40,7 +40,7 @@ In trying to find out more about Henry I'd found out about <a href="https://www.
 Composite image of the Serjeants muster roll for the Rifle Brigade 1st Battalion for 01/04/68 - 30/06/68.
 </p>
 
-After struggling with copper plate writing and using some imaginative thinking I came up with the following list of members of the Rifle Brigade 1st Battalion's serjeants' mess.
+After struggling to decipher copper plate writing and using some imaginative thinking I came up with the following list of members of the Rifle Brigade 1st Battalion's serjeants' mess.
 
 |Surname|	Forename|	Rank|
 |-------|-------|-------|
@@ -93,7 +93,7 @@ After struggling with copper plate writing and using some imaginative thinking I
 
 In the 1868 serjeants muster roll for 01/04/68 - 30/06/68 there are 46 entries. There are 48 portraits on the picture so the numbers are in reasonable agreement so this wasn't a total fool's errand.
 
-I knew that a soldier's service record held the medals they'd be awarded. If I could get hold of the service records for all of the men listed then I could perhaps start to identify some individuals. By identifying individuals I could work out how the portraits were arranged and therefore determine which one was Henry. In the end through a combination of <a href="fold3.com">fold3.com</a>, <a href="ancestry.com">ancestry.com</a> and <a href="findmypast.com">findmypast.com</a> I ended up with 23 service records including Henry's.
+I knew that a soldier's service record held the medals they'd be awarded. If I could get hold of the service records for all of the men listed then I could perhaps start to identify some individuals. By identifying individuals I could work out how the portraits were arranged and therefore determine which one was Henry. In the end through a combination of <a href="http://www.fold3.com">fold3.com</a>, <a href="http://www.ancestry.com">ancestry.com</a> and <a href="http://www.findmypast.com">findmypast.com</a> I ended up with 23 service records including Henry's.
 
 Most of the soldiers who had medals had been awarded the <a href="https://en.wikipedia.org/wiki/Crimea_Medal">Crimea medal</a> and the <a href="https://en.wikipedia.org/wiki/Turkish_Crimea_Medal">Turkish Crimea medal</a> like Henry. Interestingly most soldiers had gone onto receive the long service and good conduct medal on the fulfilment of their 21 years of service. Notably Henry was not awarded this medal, presumably <a href="/swendell/Henry-James-Humphrey-Swendell-and-the-Crimean-War">his desertion in 1855</a> counted against him in this.
 
@@ -130,11 +130,11 @@ Médaille Militaire
 What's interesting from my perspective is that the DCM has a distinctive banded ribbon. Based on this I think I'm able to identify James Hawksford at 37 and Walter Eales at 30.
 
 <p align="center">
-<img src="/images/SerjeantsMess_37.jpg">
-<img src="/images/SerjeantsMess_30.jpg">
+<img src="/images/SerjeantsMess_37.jpg" alt="James Hawksford" title="James Hawksford">
+<img src="/images/SerjeantsMess_30.jpg" alt="Walter Eales" title="Walter Eales">
 </p>
 <p align="center">
-James Hawksford (left) and Walter Eales (right)
+James Hawksford and Walter Eales
 </p>
 
 The distinctive DCM ribbon is visible closest to the centre of each man's chest. I think you can just make out the distinctive shape of the Médaille Militaire on the outside of James Hawksford chest. This a bit tenuous, but it is longer than normal medals. I'm further convinced that number 37 is James Hawksford as there is <a href="https://lirp.cdn-website.com/9ec558cb/dms3rep/multi/opt/Hawksford%2C+James+1896-1280w.jpg"> a picture of his time as a Yeoman of the Guard</a> which looks like portrait 37.
@@ -156,7 +156,7 @@ I think I've been able to identify a <a href="https://en.wikipedia.org/wiki/Legi
 
 
 <p align="center">
-<img src="/images/SerjeantsMess_45.jpg">
+<img src="/images/SerjeantsMess_45.jpg" title="James O'Neill">
 </p>
 <p align="center">
 James O'Neill

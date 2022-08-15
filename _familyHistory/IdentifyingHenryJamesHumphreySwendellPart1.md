@@ -130,8 +130,8 @@ Médaille Militaire
 What's interesting from my perspective is that the DCM has a distinctive banded ribbon. Based on this I think I'm able to identify James Hawksford at 37 and Walter Eales at 30.
 
 <p align="center">
-<img src="/images/serjeantsMess_37.jpg">
-<img src="/images/serjeantsMess_30.jpg">
+<img src="/images/SerjeantsMess_37.jpg">
+<img src="/images/SerjeantsMess_30.jpg">
 </p>
 <p align="center">
 James Hawksford (left) and Walter Eales (right)
@@ -156,7 +156,7 @@ I think I've been able to identify a <a href="https://en.wikipedia.org/wiki/Legi
 
 
 <p align="center">
-<img src="/images/serjeantsMess_45.jpg">
+<img src="/images/SerjeantsMess_45.jpg">
 </p>
 <p align="center">
 James O'Neill

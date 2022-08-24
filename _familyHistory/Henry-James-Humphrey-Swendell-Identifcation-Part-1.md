@@ -95,6 +95,8 @@ In the 1868 serjeants muster roll for 01/04/68 - 30/06/68 there are 46 entries. 
 
 I knew that a soldier's service record held the medals they'd be awarded. If I could get hold of the service records for all of the men listed then I could perhaps start to identify some individuals. By identifying individuals I could work out how the portraits were arranged and therefore determine which one was Henry. In the end through a combination of <a href="http://www.fold3.com">fold3.com</a>, <a href="http://www.ancestry.com">ancestry.com</a> and <a href="http://www.findmypast.com">findmypast.com</a> I ended up with 23 service records including Henry's.
 
+For some of the service records I couldn't find I did find medals recorded in <a href="https://www.goodreads.com/book/show/5342912-rifle-green-in-the-crimea">Rifle Green in the Crimea by George Caldwell and Robert Cooper</a> which are reportedly taken from the medal rolls of the Rifle Brigade that were held at the Public Records Office which is now part of the <a href="https://www.nationalarchives.gov.uk/">National Archives</a>.
+
 Most of the soldiers who had medals had been awarded the <a href="https://en.wikipedia.org/wiki/Crimea_Medal">Crimea medal</a> and the <a href="https://en.wikipedia.org/wiki/Turkish_Crimea_Medal">Turkish Crimea medal</a> like Henry. Interestingly most soldiers had gone onto receive the long service and good conduct medal on the fulfilment of their 21 years of service. Notably Henry was not awarded this medal, presumably <a href="/swendell/Henry-James-Humphrey-Swendell-and-the-Crimean-War">his desertion in 1855</a> counted against him in this.
 
 <p align="center">

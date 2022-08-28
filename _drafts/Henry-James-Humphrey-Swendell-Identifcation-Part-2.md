@@ -6,6 +6,40 @@ doctype: history
 tag: HJHS
 ---
 
+In my last blog post I identfied three members of the Rifle Brigade's 1st Battalion Serjeants' mess from 1868; James Hawksford, Walter Eales and James O'Neill
+
+<p align="center">
+<img src="/images/SerjeantsMess_37.jpg" alt="James Hawksford" title="James Hawksford">
+<img src="/images/SerjeantsMess_30.jpg" alt="Walter Eales" title="Walter Eales">
+<img src="/images/SerjeantsMess_45.jpg" alt="James O'Neill" title="James O'Neill">
+</p>
+<p align="center">
+James Hawksford, Walter Eales and James O'Neill
+</p>
+
+I'd also identified possibilities for Henry with two medals at positions 6, 19, 26 (could there be 3 medals?), 29, 36 and 47.
+
+<p align="center">
+<img src="/images/SerjeantsMess_06.jpg" alt="06" title="06">
+<img src="/images/SerjeantsMess_19.jpg" alt="19" title="19">
+<img src="/images/SerjeantsMess_26.jpg" alt="26" title="26">
+<img src="/images/SerjeantsMess_29.jpg" alt="29" title="29">
+<img src="/images/SerjeantsMess_36.jpg" alt="36" title="36">
+<img src="/images/SerjeantsMess_47.jpg" alt="47" title="47">
+
+</p>
+<p align="center">
+Portraits at positions 6, 19, 26, 29, 36 and 47.
+</p>
+
+
+Identified three people
+Identified people with two medals. Any of these could be Henry.
+Trying to work out order of portraits given the people I've identified. Alphabetically and rank seem unlikely. Possibly length of service. This would explain why James O'Neill is towards the centre. Could just be random in which case I don't stand a chance.
+
+Next step is probably go back to the National Archives and find joining dates for all of the people identified.
+
+
 https://en.wikipedia.org/wiki/M%C3%A9daille_militaire
 https://en.wikipedia.org/wiki/Legion_of_Honour
 https://en.wikipedia.org/wiki/List_of_British_recipients_of_the_L%C3%A9gion_d%27Honneur_for_the_Crimean_War
@@ -25,3 +59,5 @@ James O'Neill - http://www.suffolkregimentmuseum.co.uk/museum-object/medal-group
 The John Andrews discrepancy is that the photo was reportedly taken in 1868, the muster book records has him in as serving in 1868, but his service record has him leaving the army in 1866.
 
 Go back to National Archives and find a serjeants mess listing that has 48 people on it.
+
+Indian mutiny medal search https://search.fibis.org/bin/aps_browse_sources.php?mode=list_sources&source_class=67

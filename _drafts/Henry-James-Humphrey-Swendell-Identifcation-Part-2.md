@@ -17,19 +17,19 @@ In my last blog post I identfied three members of the Rifle Brigade's 1st Battal
 James Hawksford, Walter Eales and James O'Neill
 </p>
 
-I'd also identified possibilities for Henry with two medals at positions 6, 19, 26 (could there be 3 medals?), 29, 36 and 47.
+I'd also identified possibilities for Henry with two medals at positions 6, 19, 26 (could there be 3 medals?), 28, 29 and 47.
 
 <p align="center">
 <img src="/images/SerjeantsMess_06.jpg" alt="06" title="06">
 <img src="/images/SerjeantsMess_19.jpg" alt="19" title="19">
 <img src="/images/SerjeantsMess_26.jpg" alt="26" title="26">
+<img src="/images/SerjeantsMess_28.jpg" alt="28" title="28">
 <img src="/images/SerjeantsMess_29.jpg" alt="29" title="29">
-<img src="/images/SerjeantsMess_36.jpg" alt="36" title="36">
 <img src="/images/SerjeantsMess_47.jpg" alt="47" title="47">
 
 </p>
 <p align="center">
-Portraits at positions 6, 19, 26, 29, 36 and 47.
+Portraits at positions 6, 19, 26 (could there be 3 medals?), 28, 29 and 47.
 </p>
 
 
@@ -49,6 +49,8 @@ https://en.wikipedia.org/wiki/Turkish_Crimea_Medal
 https://en.wikipedia.org/wiki/Crimea_Medal
 https://en.wikipedia.org/wiki/Canada_General_Service_Medal
 
+
+https://www.northeastmedals.co.uk/british_regiment/rifle_brigade.htm
 
 30 - Walter Eales. Make out DCM and Médaille Militaire. Médaille Militaire a bit tenuous, but it is longer than normal medals and ribbon to right of DCM looks right.
 37 - James Hawksford. If 30 is Walter Eales then 37 is James Hawksford as DCM ribbon is distinctive. Also has more than a passing resemblance to James Hawksford - https://www.yeomenoftheguard.co.uk/hcd3c12c9#&gid=1416821204&pid=17

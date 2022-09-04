@@ -1,4 +1,5 @@
 # Family History
+* Restructure site
 * Solicitor's clerk, masons and convicts
 * Brothers in arms
 * Who is Henry Swendell?

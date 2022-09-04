@@ -13,7 +13,7 @@ I don't know about other people, but for me finding a picture of an ancestor is 
 The Rifle Brigade was amalgamated with other regiments to form the Green Jackets Brigade in 1958 and then the Royal Green Jackets Regiment in 1966. The <a href="https://rgjmuseum.co.uk/">Royal Green Jackets Regiment's museum is in Winchester</a> with the regiment's archives managed by <a href="https://www.hants.gov.uk/librariesandarchives/archives">Hampshire Archive</a>. Searching the Hampshire Archive's online index I came across <a href="https://calm.hants.gov.uk/Record.aspx?src=CalmView.Catalog&id=A12170%2f3%2f1%2f2%2f1%2f627&pos=274">a photo of the Rifle Brigade's 1st battalion serjeants' mess taken in 1868<a/>. 
 
 <p align="center">
-<img src="/images/170A12W_P_4636.jpg" alt="Faded image of 48 portraits arranged around the insigna of the Rifle Brigade" title="Hampshire Records Office: The Royal Green Jackets Regimental Archive: 170A12W/P/4636">
+<img src="/images/serjeantsMess/170A12W_P_4636.jpg" alt="Faded image of 48 portraits arranged around the insigna of the Rifle Brigade" title="Hampshire Records Office: The Royal Green Jackets Regimental Archive: 170A12W/P/4636">
 </p>
 <p align="center">
 Portraits of the serjeants' mess of the Rifle Brigade 1st Battalion 1868. Hampshire Records Office: The Royal Green Jackets Regimental Archive: 170A12W/P/4636
@@ -24,7 +24,7 @@ Based on Henry's service record his portrait should be on here. Unfortunately th
 Examining the photos made me realise that in most of them you could make out the soldier's medals pinned to their chest. Based on Henry's service record I knew that he had been awarded the British Crimea War medal and the Turkish Crimea War medal. This narrowed down the number of possible candidates, but not so that I could identify Henry. I numbered each portrait and tried to identify the number of medals each soldier had in the respective portrait. The left hand side of the image is particularly faded and the general quality isn't great, but I came up with the following.
 
 <p align="center">
-<img src="/images/MessIndex.jpg" alt="Faded image of 48 portraits indexed with best guess of number of medals on each portrait">
+<img src="/images/serjeantsMess/serjeantsMessKey.jpg" alt="Faded image of 48 portraits indexed with best guess of number of medals on each portrait">
 </p>
 <p align="center">
 Serjeants' mess portraits indexed.
@@ -34,7 +34,7 @@ In trying to find out more about Henry I'd found out about <a href="https://www.
 
 
 <p align="center">
-<img src="/images/Mess.jpg">
+<img src="/images/serjeantsMess/Mess.jpg">
 </p>
 <p align="center">
 Composite image of the Serjeants muster roll for the Rifle Brigade 1st Battalion for 01/04/68 - 30/06/68.
@@ -132,8 +132,8 @@ Médaille Militaire
 What's interesting from my perspective is that the DCM has a distinctive banded ribbon. Based on this I think I'm able to identify James Hawksford at 37 and Walter Eales at 30.
 
 <p align="center">
-<img src="/images/SerjeantsMess_37.jpg" alt="James Hawksford" title="James Hawksford">
-<img src="/images/SerjeantsMess_30.jpg" alt="Walter Eales" title="Walter Eales">
+<img src="/images/serjeantsMess/SerjeantsMess_37.jpg" alt="James Hawksford" title="James Hawksford">
+<img src="/images/serjeantsMess/SerjeantsMess_30.jpg" alt="Walter Eales" title="Walter Eales">
 </p>
 <p align="center">
 James Hawksford and Walter Eales
@@ -158,7 +158,7 @@ I think I've been able to identify a <a href="https://en.wikipedia.org/wiki/Legi
 
 
 <p align="center">
-<img src="/images/SerjeantsMess_45.jpg" title="James O'Neill">
+<img src="/images/serjeantsMess/SerjeantsMess_45.jpg" title="James O'Neill">
 </p>
 <p align="center">
 James O'Neill

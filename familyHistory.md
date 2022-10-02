@@ -13,6 +13,8 @@ My family tree is online at <a href="https://www.ancestry.co.uk/family-tree/tree
 
 ## Swendell - London, Soldiering and Bradford
 
+<a href="/swendell/William-Sewell-Swendell"> William Sewell Swendell</a>. My great, great, great grandfather. Solicitor's clerk and mason.
+
 <a href="/swendell/Henry-James-Humphrey-Swendell"> Henry James Humphrey Swendell</a>. My great, great grandfather. Member of the Rifle Brigade and Crimean War veteran.
 
 <a href="/swendell/Love-And-Lodging"> How lodging in the early twentieth century lead to three marriages</a>.

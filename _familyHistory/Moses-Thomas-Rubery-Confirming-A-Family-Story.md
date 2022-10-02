@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Moses Thomas Rubery. Confirming A Family Story.
-permalink: /rubery/Thomas-Rubery-Confirming-A-Family-Story
+permalink: /rubery/Moses-Thomas-Rubery-Confirming-A-Family-Story
 doctype: history
 tag: MTR
 ---

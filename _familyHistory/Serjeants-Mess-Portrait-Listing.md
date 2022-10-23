@@ -8,7 +8,7 @@ tag: HJHS
 
 This page is where I'll pull together my thoughts on the various portraits and who they may be.
 
-Working on the basis that Henry was in possession of the British and Turkish Crimean medals when the photo was taken in 1868 he's in one of the pictures below.
+Working on the basis that Henry was in possession of the British and Turkish Crimean medals when the photo was taken he's in one of the pictures below. The back of the photo has a note stating that the portraits were taken between 1866 and 1870.
 
 <div class="columns image">
 {% for serjeant in site.data.serjeants %}

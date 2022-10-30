@@ -13,10 +13,10 @@ He had two wives, Elizabeth Benjamin (1784 - 1819) and Catherine Curtis (1798 - 
 
 William was highly educated for the time as he was able to read and write and worked as a solictor's clerk. He also appears to have been well connected as he was a member of the masons.
 
-Two, possibly three, of his sons were sent to Australia as convicts. He wrote letters to the king pleading clemency for William and [Frederick](/swendell/Frederick-Augustus-Swendell-Letter). There's no evidence that he did the same for Charles. Maybe William thought he was guilty.
+Two, possibly three, of his sons were sent to Australia as convicts. He wrote letters to the king pleading clemency for [William](/swendell/William-Swendell-Letter) and [Frederick](/swendell/Frederick-Augustus-Swendell-Letter). There's no evidence that he did the same for Charles. Maybe William thought he was guilty.
 
 Two of his sons [fought in the Crimean War](/swendell/Henry-James-Humphrey-Swendell-and-the-Crimean-War).
 
-Another son was killed after being run over by a carriage. 
+Another son, Benjamin Sewell Swendell, was killed after being run over by a carriage aged 11. 
 
 

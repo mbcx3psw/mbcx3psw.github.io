@@ -13,15 +13,17 @@ My family tree is online at <a href="https://www.ancestry.co.uk/family-tree/tree
 
 ## Swendell - London, Soldiering and Bradford
 
-<a href="/swendell/William-Sewell-Swendell"> William Sewell Swendell</a>. My great, great, great grandfather. Solicitor's clerk and mason.
+<a href="/swendell/William-Sewell-Swendell"> William Sewell Swendell (1781 - 1844)</a>. My great, great, great grandfather. Solicitor's clerk, mason and serial writer of letters to the King.
 
-<a href="/swendell/Henry-James-Humphrey-Swendell"> Henry James Humphrey Swendell</a>. My great, great grandfather and son of William Sewell Swendell. Member of the Rifle Brigade and Crimean War veteran.
+<a href="/swendell/Henry-James-Humphrey-Swendell"> Henry James Humphrey Swendell (1830 - 1896)</a>. My great, great grandfather and son of William Sewell Swendell. Member of the Rifle Brigade and Crimean War veteran.
 
-<a href="/swendell/Frederick-Augustus-Swendell-Letter"> Frederick Augustus Swendell</a>. Elder brother of Henry James Humphrey Swendell and son of William Sewell Swendell. Charged with stealing a sheet and sent to Australia as a convict.
+<a href="/swendell/Frederick-Augustus-Swendell-Letter"> Frederick Augustus Swendell (1820 - 1836)</a>. Elder brother of Henry James Humphrey Swendell and son of William Sewell Swendell. Charged with stealing a sheet and sent to Australia as a convict.
+
+<a href="/swendell/William-Swendell-Letter"> William Swendell (1808 - ?)</a>. Eldest son of William Sewell Swendell from his first marriage to Elizabeth Benjamin. Charged with stealing a hankerchief and sentenced to be sent to Australia as a convict.
 
 
 <a href="/swendell/Love-And-Lodging"> How lodging in the early twentieth century lead to three marriages</a>.
 
 ## Rubery - Bloxwich Shopkeepers
 
-<a href="/rubery/Moses-Thomas-Rubery-Confirming-A-Family-Story"> Moses Thomas Rubery</a>. My great, great grandfather. Grocer.
+<a href="/rubery/Moses-Thomas-Rubery-Confirming-A-Family-Story"> Moses Thomas Rubery (1840 - 1879)</a>. My great, great grandfather. Grocer.

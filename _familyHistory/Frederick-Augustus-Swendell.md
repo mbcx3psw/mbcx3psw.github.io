@@ -26,7 +26,7 @@ Occasionally you stumble across something that takes your breath away. In this c
 
 *W Swendell*
 
-*The undersigned householders in the parish of Shoreditch readily can xxxx to the general character of the petitioner, and an xxxx, honest and xxxxxx man, who has resided in the parish seventy five years; and we believe the statement of his petition to be correct.*
+*The undersigned householders in the parish of Shoreditch readily can xxxx to the general character of the petitioner, and an xxxx, honest and xxxxxx man, who has resided in the parish twenty five years; and we believe the statement of his petition to be correct.*
 
 *R N Nicolas 96 Hoxton Town*
 

@@ -100,7 +100,7 @@ The letter wasn't immediately successful as on the 28th of January 1828 Charles 
 Charles mentions that William Senior has six children. In January 1878 the six children from his second marriage are:
 
 - Frederick Augustus Swendell (1820 - 1836) who in [1835 will encounter similar problems](/swendell/Frederick-Augustus-Swendell-Letter).
-- Emma Swendell (1822 - 1882).
+- Emma Swendell (1820 - 1882). Emma and Frederick are most likely twins.
 - Joseph Corne Swendell (1821 - 1893). Joseph may have been given the middle name Corne as a tribute to Penelope Corne.
 - Catherine Elizabeth Swendell (1823 - 1834).
 - Jane Ellen Swendell (1825 - 1826).

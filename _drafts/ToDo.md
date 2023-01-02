@@ -1,5 +1,4 @@
 # Family History
-* Solicitor's clerk, masons
 * Brothers in arms
 * Who is Henry Swendell?
 * Emmigration to America

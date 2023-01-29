@@ -5,7 +5,7 @@ permalink: /swendell/Charles-Henning-Swendell-Convict-Policeman
 doctype: history
 tag: CHS
 ---
-Having reviewed censuses, birth, marriage and death records it's recommended that historic newspapers are the next step on finding out about ancestors. In my experience this can be hit and miss. Thankfully for Charles Henning Swendell he was part of a small community and was newsworthy so it's possible to track his life and get an idea of his character.
+Having reviewed censuses, birth, marriage and death records it's recommended that historic newspapers are the next step on finding out about ancestors. In my experience this can be hit and miss. Thankfully Charles Henning Swendell (1809 to 1850) was part of a small community and was newsworthy so it's possible to track his life and get an idea of his character.
 
 There's no evidence that upon Charles Henning Swendell being convicted of [stealing a hat on the 14th of January 1830](https://www.oldbaileyonline.org/browse.jsp?div=t18300114-102) that his father William Sewell Swendell wrote to the king asking for clemency. This suggests that William thought that Charles was guilty since in 1825 he had written [a letter to the king for his son William](/swendell/William-Swendell-Letter). He would do the [same again for his son Frederick in 1834](/swendell/Frederick-Augustus-Swendell-Letter). Charles' conviction for stealing a hat wasn't his first brush with the law. [He'd been found not guilty in 1828 of stealing some bread](https://www.oldbaileyonline.org/browse.jsp?id=t18280221-99&div=t18280221-99).
 
@@ -23,7 +23,7 @@ There are no reports of Charles until the 25th of June 1841 when it is reported 
 
 ![Assaulted while serving as a police constable](/images/CharlesSwendell/CSH1841-07-17CharlesSwindelWeeklyFreePressAndPortPhillipCommercialAdvertiser.png "17th of July 1841 Weekly Free Press And Port Phillip Commercial Advertiser")
 
-This is interesting on a couple of levels. Firstly that a convict has become a police constable and secondly that Charles was in Melbourne in 1841. [Melbourne was only founded in 1836](https://en.wikipedia.org/wiki/Melbourne#History) so Charles was one of the early settlers there.
+It appears that Charles travelled to Melbourne from Launceston between 1839 and 1841. [Melbourne was only founded in 1836](https://en.wikipedia.org/wiki/Melbourne#History) so Charles was one of the early settlers there. In 1840s Australia, many police constables were ex-convicts, as most Europeans there were either convicts or ex-convicts.
 
 In 1847 and 1848 after Charles leaves the police there are stories in local newspapers lamenting the loss of his role as inspector of weights and measures.
 
@@ -43,7 +43,7 @@ Then on the 12th of February 1847 he is dismissed from the police for being drun
 
 ![Dismissed from the police](/images/CharlesSwendell/CSH1847-02-12CharlesSwindellThePortPhillipPatriotAndMorningAdvertiser.png "12th February 1847 The Port Phillip Patriot And Morning Advertiser")
 
-Although the full reasons for his dismissal are not recorded in newspaper reports there is the possibility that the occasion was recorded in [The chronicles of early Melbourne, 1835 to 1852 historical, anecdotal and personal by "Garryowen"](http://arrow.latrobe.edu.au:8080/vital/access/manager/Repository/latrobe:34479). "The Tulip" is the chief constable of Melbourne at the time.
+Although the full reasons for his dismissal are not recorded in newspaper reports there is the possibility that the occasion was recorded in [The chronicles of early Melbourne, 1835 to 1852 historical, anecdotal and personal by "Garryowen"](http://arrow.latrobe.edu.au:8080/vital/access/manager/Repository/latrobe:34479). ["The Tulip"](https://en.wikipedia.org/wiki/Victoria_Police) is the chief constable of Melbourne at the time.
 
 ![The chronicles of early Melbourne](/images/CharlesSwendell/CSHEarlyMelbourne.jpg "The chronicles of early Melbourne, 1835 to 1852 historical, anecdotal and personal")
 

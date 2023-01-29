@@ -11,16 +11,23 @@ I've found that reading about family history can be pretty dry no matter how thr
 
 My family tree is online at <a href="https://www.ancestry.co.uk/family-tree/tree/168885868/family?cfpid=242186374595">Ancestry</a> and I can be contacted at <a href="javascript:location='mailto:\u0070\u0061\u0075\u006c\u002e\u0077\u006f\u006f\u0074\u0074\u006f\u006e\u0040\u0079\u0061\u0068\u006f\u006f\u002e\u0063\u006f\u002e\u0075\u006b';void 0"><script type="text/javascript">document.write('\u0070\u0061\u0075\u006c\u002e\u0077\u006f\u006f\u0074\u0074\u006f\u006e\u0040\u0079\u0061\u0068\u006f\u006f\u002e\u0063\u006f\u002e\u0075\u006b')</script></a>.
 
-## Swendell - London, Soldiering and Bradford
+## Swendell - 19th Century. London, Soldiering and Convicts.
+
 
 <a href="/swendell/William-Sewell-Swendell"> William Sewell Swendell (1781 - 1844)</a>. My great, great, great grandfather. Solicitor's clerk, mason and serial writer of letters to the King.
 
-<a href="/swendell/Henry-James-Humphrey-Swendell"> Henry James Humphrey Swendell (1830 - 1896)</a>. My great, great grandfather and son of William Sewell Swendell. Member of the Rifle Brigade and Crimean War veteran.
+William had eights sons including:
+<ul>
+<li><a href="/swendell/William-Swendell-Letter"> William Swendell (1808 - ?)</a>. Eldest son of William Sewell Swendell from his first marriage to Elizabeth Benjamin. Charged with stealing a hankerchief and sentenced to be sent to Australia as a convict.</li>
 
-<a href="/swendell/Frederick-Augustus-Swendell-Letter"> Frederick Augustus Swendell (1820 - 1836)</a>. Elder brother of Henry James Humphrey Swendell and son of William Sewell Swendell. Charged with stealing a sheet and sent to Australia as a convict.
+<li><a href="/swendell/Charles-Henning-Swendell-Convict-Policeman"> Charles Henning Swendell (1809 - 1850)</a>. Charged with stealing a hat and sentenced to be sent to Australia as a convict. One of the early settlers in Melbourne.</li>
 
-<a href="/swendell/William-Swendell-Letter"> William Swendell (1808 - ?)</a>. Eldest son of William Sewell Swendell from his first marriage to Elizabeth Benjamin. Charged with stealing a hankerchief and sentenced to be sent to Australia as a convict.
+<li><a href="/swendell/Frederick-Augustus-Swendell-Letter"> Frederick Augustus Swendell (1820 - 1836)</a>. Elder brother of Henry James Humphrey Swendell and son of William Sewell Swendell. Charged with stealing a sheet and sent to Australia as a convict.</li>
 
+<li><a href="/swendell/Henry-James-Humphrey-Swendell"> Henry James Humphrey Swendell (1830 - 1896)</a>. My great, great grandfather and son of William Sewell Swendell. Member of the Rifle Brigade and Crimean War veteran.</li>
+</ul>
+
+## Swendell - 20th Century
 
 <a href="/swendell/Love-And-Lodging"> How lodging in the early twentieth century lead to three marriages</a>.
 

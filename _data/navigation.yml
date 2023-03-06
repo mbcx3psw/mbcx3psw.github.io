@@ -1,0 +1,41 @@
+main:
+  - title: Home
+    url: /
+  - title: Swendell
+    url: /Swendell/
+  - title: Rubery
+    url: /Rubery/
+swendell:
+  - title: 19th Century Crime
+    children:
+      - title: "William Swendell - Life Story"
+        url: /swendell/William-Sewell-Swendell
+      - title: "William Swendell - Clerk And Mason"
+        url: /swendell/William-Sewell-Swendell-Clerk-Freemason-And-Gentleman
+      - title: "William Swendell - Hankerchief Thief"
+        url: /swendell/William-Swendell-Letter
+      - title: "Charles Swendell - Convict Policeman"
+        url: /swendell/Charles-Henning-Swendell-Convict-Policeman
+      - title: "Frederick Swendell - Innocent?"
+        url: /swendell/Frederick-Augustus-Swendell-Letter
+  - title: 19th Century Soldiering
+    children:
+      - title: "Henry Swendell - Life Story"
+        url: /swendell/Henry-James-Humphrey-Swendell
+      - title: "Henry  Swendell - Crimean War"
+        url: /swendell/Henry-James-Humphrey-Swendell-and-the-Crimean-War
+      - title: "Henry Swendell - Canada"
+        url: /swendell/Henry-James-Humphrey-Swendell-In-Canada
+      - title: "Henry Swendell - Identifcation Part 1"
+        url: /swendell/Identifying-Henry-James-Humphrey-Swendell-Part-1
+      - title: "Henry Swendell - Portrait Listing"
+        url: /swendell/Serjeants-Mess-Portrait-Listing
+  - title: 20th Century
+    children:
+      - title: "Love And Lodging"
+        url: /swendell/Love-And-Lodging
+rubery:
+  - title: Rubery
+    children:
+      - title: "Moses Rubery - Confirming A Family Story"
+        url: /rubery/Moses-Thomas-Rubery-Confirming-A-Family-Story

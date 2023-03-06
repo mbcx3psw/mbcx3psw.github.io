@@ -1,3 +1,18 @@
+# Style update
+* ~~Feed~~
+* ~~Header image~~
+* Lead in for Swendell and Rubery pages
+    ** Swendell - Which photo? Soldiering and Convicts
+    ** Rubery - Rubery shop photo
+* ~~Family History page structure~~
+* Work out what to do about work items
+* Change instructions
+* ~~404 page~~
+* ~~Make use of MM commands to format and align pictures~~
+* ~~Navigation sidebar matches page titles~~
+
+
+
 # Family History
 * Brothers in arms
 * Who is Henry Swendell?

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: single
 title: Family History
 permalink: /Family-History/
 doctype: history
-
+sidebar:
+  nav: "docs"
 ---
 During the lockdown I started to research my family tree. It's been a lot of fun and I've learnt a lot.
 

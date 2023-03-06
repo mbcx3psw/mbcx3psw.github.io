@@ -101,10 +101,21 @@ collections:
 #  collections:
 #    - familyHistory
 
-# Plugins
+# Plugins (previously gems:)
 plugins:
-  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 defaults:
   - scope:

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Rubery
-permalink: /Rubery/
+permalink: /rubery/
 doctype: history
 ---
 ## Rubery - Bloxwich Shopkeepers

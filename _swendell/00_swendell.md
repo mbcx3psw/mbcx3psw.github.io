@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Swendell
-permalink: /Swendell/
+permalink: /swendell/
 doctype: history
 ---
 The Swendells are from my mum's side of the family. Before I started researching my family history we'd always believed that they'd originated from Canterbury. It transpires that they only spent a short amount of time there towards the end of my great great grandad Henry Swendell's time as a soldier. Henry along with previous generations of Swendells had been born and raised in London.

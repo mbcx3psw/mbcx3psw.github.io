@@ -2,9 +2,9 @@ main:
   - title: Home
     url: /
   - title: Swendell
-    url: /Swendell/
+    url: /swendell/
   - title: Rubery
-    url: /Rubery/
+    url: /rubery/
 swendell:
   - title: 19th Century Crime
     children:

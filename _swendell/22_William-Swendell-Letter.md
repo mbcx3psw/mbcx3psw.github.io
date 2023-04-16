@@ -108,4 +108,31 @@ Charles mentions that William Senior has six children. In January 1878 the six c
 
 William's next child to be born in 1830 is [Henry James Humphrey Swendell](/swendell/Henry-James-Humphrey-Swendell) my great, great grandfather.
 
-There's no record of William Junior arriving in Australia. The first census to record all members of a household wasn't until 1841 and I've not been able to find a record of William Junior. William Senior is recorded in the 1841 census, but he is living with his second wife and their children. There's no record of children from his first marriage living with him and his second wife.
+On the back of the letter there is the following writing
+
+![](/images/TNA_CCC_HO17_072_01265.jpg){: .align-center}
+
+*XX 2X William Swendell*
+
+*Old Bailey*
+
+*Oct Sess 1825*
+
+*XXX from the Person*
+
+*Trans for life*
+
+
+*onb the York*
+
+*good character + well behaved in the hulks*
+
+*Let him remain in Engl?if he continues to behave well.*
+
+I hadn't spotted this. It was only upon returning to the National Archives website to prepare for another trip that I spotted the [transcript against the record](https://discovery.nationalarchives.gov.uk/details/r/C16173464). The National Archives has the [quarterly returns for the prisoner hulks](https://discovery.nationalarchives.gov.uk/browse/r/h/C8872) including the York. Reviewing the returns I found a William Swendell being pardoned on 15th of November 1833.
+
+![](/images/WSPardon.jpg){: .align-center}
+
+If this is the same William Swendell (there's some doubt in my mind as the age in the quarterly returns is 19 when William would have actually been 25) then he never was sent to Australia and his father's letter had made a difference.
+
+After this I've not been able to find further records for William Junior. The first census to record all members of a household wasn't until 1841 and I've not been able to find a record of him. William Senior is recorded in the 1841 census, but he is living with his second wife and their children. There's no record of children from his first marriage living with him.

@@ -34,6 +34,8 @@ swendell:
     children:
       - title: "Love And Lodging"
         url: /swendell/Love-And-Lodging
+      - title: "George Swendell - WWI Soldier"
+        url: /swendell/George-Swendell-WWI
 rubery:
   - title: Rubery
     children:

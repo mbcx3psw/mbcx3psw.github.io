@@ -6,7 +6,7 @@ doctype: history
 tag: GS
 ---
 
-George Swendell was the youngest brother of my great granddad. Like all of his brothers he joined the army. Early on in my genealogy research I came across George. For a while I confused him with another George Swendell who had been thrown out of the army. In trying to get to the bottom of this I paid for the Royal Irish Fusilliers to send me the details that they had on him. The pack that the Royal Irish Fusilliers sent me confirmed that my family's George Swendell hadn't been thrown out of the army. Sadly he'd been killed at Gallopoli in 1915.
+George Swendell (1882 - 1915) was the youngest brother of my great granddad. Like all of his brothers he joined the army. Early on in my genealogy research I came across George. For a while I confused him with another George Swendell who had been thrown out of the army. In trying to get to the bottom of this I paid for the Royal Irish Fusilliers to send me the details that they had on him. The pack that the Royal Irish Fusilliers sent me confirmed that my family's George Swendell hadn't been thrown out of the army. Sadly he'd been killed at Gallopoli in 1915.
 
 I haven't researched George's early life, but I have looked into the years before he died. The main reason for this was I thought there was a chance that I'd be able to find a photo of him.
 
